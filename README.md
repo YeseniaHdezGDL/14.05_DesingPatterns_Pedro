@@ -1,2 +1,2 @@
-# 13.05_MVCpatterns_Pedro
-En este ejercicio se muestra la secuencia ordenada de cómo se realizan los request.
+# 14.05_DesingPatterns_Pedro
+Design pattern: una solución reusable a un problema recurrente.
